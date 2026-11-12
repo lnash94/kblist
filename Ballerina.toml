@@ -1,0 +1,3 @@
+[workspace]
+title = "kbList"
+packages = ["kblist"]
